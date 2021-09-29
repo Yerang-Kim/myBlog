@@ -1,4 +1,4 @@
-## gatsby-blog-starter 템플릿으로 나만의 블로그를 만들어 보기
+## gatsby-starter-blog 템플릿으로 나만의 블로그를 만들어 보기
 
 https://betmore.netlify.app/
 
